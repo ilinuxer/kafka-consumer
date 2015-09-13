@@ -1,0 +1,5 @@
+.idea
+target
+build
+bin
+kafka-consumer.iml
